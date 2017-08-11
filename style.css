@@ -1,0 +1,25 @@
+html, body
+{
+    padding: 0;
+    margin: 0;
+}
+
+#title
+{
+    display: block;
+    margin-bottom: 5px;
+    font-family: "Segoe UI", Sans-serif;
+    font-size: 30pt;
+    text-align: center;
+    font-weight: bolder;
+    background-color: #E3F2FD; 
+}
+
+#game
+{
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    border-style: solid;
+    border-width: 1px;
+}
